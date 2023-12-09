@@ -9,7 +9,7 @@ Dengan adanya website reservasi Coworking space, pelanggan dapat dengan mudah me
 Berdasarkan deliverables - deliverables sebelumnya, kami berinisiatif untuk mengimplementasikan 3 diantara banyak service yang kami rancang, diantaranya adalah membership service, reservation service, dan check availability service pada website smart coworking space kami.
 
 ## Kontributor
-Berikut merupakan daftar commit yang pernah dibuat, harap dilihat berdasarkan gambar ini, karena terdapat commit member yang tidak terbaca di contributor statistics, karena menggunakan akun git yang berbeda yang belum diinvite ke github ini. Berikut merupakan list kontributor yang VALID.
+Berikut merupakan daftar kontribusi yang pernah dibuat, harap dilihat berdasarkan gambar ini, karena terdapat kontribusi kode member yang tidak terbaca di contributor statistics, karena menggunakan akun git yang berbeda yang belum diinvite ke github ini karena lupa mengganti sebagian pengaturan yakni global config emailnya berbeda dan baru sadar setelah selesai push. Berikut merupakan list kontributor yang VALID.
 ![image](https://github.com/r11i/smartcoworkingspacej/assets/88923240/54fae4c3-0a7d-41e5-b0ed-4893bf1bc11b)
 
 ![image](https://github.com/r11i/smartcoworkingspacej/assets/88923240/dc60a207-9441-4ea3-ab61-28875d913de0)
