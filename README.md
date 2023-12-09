@@ -9,9 +9,9 @@ Dengan adanya website reservasi Coworking space, pelanggan dapat dengan mudah me
 Berdasarkan deliverables - deliverables sebelumnya, kami berinisiatif untuk mengimplementasikan 3 diantara banyak service yang kami rancang, diantaranya adalah membership service, reservation service, dan check availability service pada website smart coworking space kami.
 
 ## Cara menjalankan
- # Mengakses link website : 
+  Mengakses link website : 
    Dapat diakses dengan membuka link berikut : https://coworkingspacej.vercel.app/
- # Meng-clone repositori:
+  Meng-clone repositori:
    1. Buka terminal lalu ketikkan command : git clone https://github.com/r11i/smartcoworkingspacej.git
    2. cd ke dalam folder smartcoworkingspacej
    3. Ketikkan command "npm i" untuk instalasi modul modul
